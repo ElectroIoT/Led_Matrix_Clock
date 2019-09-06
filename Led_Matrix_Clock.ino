@@ -1,3 +1,7 @@
+//www.youtube.com/ElectroIoT
+//www.ElectroIoT.com
+// Original Code http://bit.ly/2kvRbSM
+
 #include "LedControl.h"       // https://www.arduinolibraries.info/libraries/led-control
 #include "FontLEDClock.h"    // https://github.com/javastraat/arduino/tree/master/libraries/FontLEDClock            
 #include "Wire.h"           // This Is Arduino Defult libraries          

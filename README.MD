@@ -103,6 +103,20 @@ Stay tuned on our channel:
 
 ---
 
+## 🙏 Special Thanks
+
+A big thank you to the following platforms for their amazing tools and support in designing this open-source hardware project:
+
+<p align="center">
+  <img src="Image/EasyEDA.png" alt="EasyEDA Logo" width="100"/>
+  <img src="Image/OSHWLab.png" alt="OSHWLab Logo" width="100"/>
+</p>
+
+- **[EasyEDA](https://easyeda.com/)** – for their powerful PCB design tools  
+- **[OSHWLab](https://oshwlab.com/)** – for hosting open-source hardware projects
+
+Their platforms made this project possible and easy to share with the maker community ❤️
+
 ## 📬 License
 
 Open Source Hardware — OSHWA Certified

@@ -61,6 +61,20 @@ You can find the complete source code here:
 - RTC synchronization
 - LED scrolling effect (optional)
 
+### 📚 Required Libraries
+
+Make sure you install these libraries before compiling:
+
+| Library         | Description                          | Download Link |
+|----------------|--------------------------------------|---------------|
+| **LedControl** | Control MAX7219 LED Matrix           | [Arduino Library](https://www.arduinolibraries.info/libraries/led-control) |
+| **FontLEDClock** | Custom fonts for matrix display      | [GitHub](https://github.com/javastraat/arduino/tree/master/libraries/FontLEDClock) *(Manual install)* |
+| **Wire**        | I2C communication (built-in)         | Built-in |
+| **RTClib**      | DS1307 RTC timekeeping               | [Arduino Library](https://www.arduinolibraries.info/libraries/rt-clib) |
+| **Button**      | Simplified button control            | [Arduino Library](https://www.arduinolibraries.info/libraries/button) |
+
+You can install these via the Arduino Library Manager or manually via the provided links.
+
 ## 🖨️ 3D Case
 
 - Designed for a 4x MAX7219 display

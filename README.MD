@@ -91,7 +91,6 @@ You can install these via the Arduino Library Manager or manually via the provid
 
 ![Final Clock](Image/clock.JPG)
 
-## 📺 Video Tutorial (Coming Soon)
 
 Stay tuned on our channel:
 - [YouTube - ElectroIoT](https://www.youtube.com/ElectroIoT)

@@ -53,7 +53,7 @@ Refer to the PDF for the full schematic:
 
 You can find the complete source code here:
 
-👉 [`Led_Matrix_Clock.ino`](Led_Matrix_Clock.ino)
+👉 [`Led_Matrix_Clock.ino`](Code/Arduino/Led_Matrix_Clock.ino)
 
 ### Features in Code:
 - Displays current time in HH:MM:SS

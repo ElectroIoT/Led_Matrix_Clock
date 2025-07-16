@@ -13,7 +13,7 @@ A compact and attractive real-time clock (RTC) based on the Arduino Mini and a 4
 
 ## 🖼️ Demo
 
-![Clock Demo](clock.JPG)
+![Clock Demo](image/clock.JPG)
 
 ## 📦 Hardware Components
 
@@ -39,10 +39,10 @@ A compact and attractive real-time clock (RTC) based on the Arduino Mini and a 4
   - Download PCB: 
 
 ### PCB Front:
-![PCB Front](Arduino_PCB_Front.JPG)
+![PCB Front](image/Arduino_PCB_Front.JPG)
 
 ### PCB Back:
-![PCB Back](Arduino_PCB_back.JPG)
+![PCB Back](image/Arduino_PCB_back.JPG)
 
 ## 🧾 Circuit Diagram
 
@@ -75,7 +75,7 @@ You can find the complete source code here:
 
 ## 📷 Build Preview
 
-![Final Clock](clock.JPG)
+![Final Clock](image/clock.JPG)
 
 ## 📺 Video Tutorial (Coming Soon)
 

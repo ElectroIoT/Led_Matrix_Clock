@@ -47,7 +47,7 @@ A compact and attractive real-time clock (RTC) based on the Arduino Mini and a 4
 ## 🧾 Circuit Diagram
 
 Refer to the PDF for the full schematic:
-- [Arduino Matrix MAX7219 Clock.pdf](Arduino%20Matrix%20MAX7219%20Clock.pdf)
+- [Arduino Matrix MAX7219 Clock.pdf](Diagram/Arduino_Matrix_MAX7219_Clock/Arduino_Matrix_MAX7219_Clock.pdf)
 
 ## 💻 Arduino Code
 

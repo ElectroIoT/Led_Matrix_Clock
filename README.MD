@@ -108,7 +108,7 @@ Stay tuned on our channel:
 A big thank you to the following platforms for their amazing tools and support in designing this open-source hardware project:
 
 <p align="center">
-  <img src="Image/EasyEDA.png" alt="EasyEDA Logo" width="100"/>
+  <img src="Image/EasyEDA.png" alt="EasyEDA Logo" width="100"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="Image/OSHWLab.png" alt="OSHWLab Logo" width="100"/>
 </p>
 

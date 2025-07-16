@@ -13,7 +13,7 @@ A compact and attractive real-time clock (RTC) based on the Arduino Mini and a 4
 
 ## 🖼️ Demo
 
-![Clock Demo](image/clock.JPG)
+![Clock Demo](Image/clock.JPG)
 
 ## 📦 Hardware Components
 
